@@ -1,4 +1,4 @@
-# inflexion
+# Inflexion
 
 ## Editing the file
 
